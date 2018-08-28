@@ -1,0 +1,37 @@
+root@haker-pk:~$ aircraking-ng -e wifi120 wlp2s0 wlp2s0
+CH 9 ][ Elapsed: 8 mins ][ 2018-08-27 7:30 ][ WPA handshake: 01:67:68:53 22:34
+
+BSSID 				PWR  Beacons	#Data. #/s  CH  MB    ENC   CIPHER AUTH ESSID
+
+E0:8B:73:9E:BB:A3	-47  	  16	    10   0   6  11ng  WPA2  TKIP   PSK  wifi120
+ED:BE:1F:E1:29:A1	-34  	  32	     8   0   5  11n   WPA2  TKIP        ss2
+DB:7E:94:44:24:A3	-55  	  19	     5   0  11  11ng  WPA2  TKIP   PSK  <length: 0>
+
+BSSID				STATION				PWR  	Rate	  Lost		Frames	Probe 
+
+E0:8B:73:9E:BB:A3	7D:05:E6:56:EB:A2   -82		0 - 1	  0			83		wifi120
+E0:8B:73:9E:BB:A3	EC:ED:A6:E7:7E:36	-111	1e- 1	  412		16		wifi120
+
+
+
+
+
+
+
+
+
+										Aircrack-ng 1.0 rc1 r1307
+
+						[76:23:11] 45639540035281 keys tested (16634.35 k/s)
+
+								KEY FOUND [ NOT_ONE_NETWORK_IS_SECURITY ]
+
+			Master Keys 	: 4C 6C D1 CB F5 E0 36 8D 75 AD 4E 0D 85 3D 8F A0 7C 70
+							  29 31 2B DF 23 29 95 36 53 BF B2 36 99 AD 27 91 FC B9
+
+			Transient Key   : 4C 6C D1 CB F5 E0 36 8D 75 AD 4E 0D 85 3D 8F A0 7C 70
+							  29 31 2B DF 23 29 95 36 53 BF B2 36 99 AD 27 91 FC B9
+							  4C 6C D1 CB F5 E0 36 8D 75 AD 4E 0D 85 3D 8F A0 7C 70
+							  29 31 2B DF 23 29 95 36 53 BF B2 36 99 AD 27 91 FC B9
+
+			EAPOL NMAC      : 4C 6C D1 CB F5 E0 36 8D 75 AD 4E 0D 85 3D 8F A0 7C 70
