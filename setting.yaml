@@ -1,0 +1,47 @@
+  groups:
+    default:
+        default: true
+        permissions:
+        - modifyworld.*
+        - essentials.bigtree
+        - essentials.break
+        - essentials.feed
+        - essentials.heal
+        - essentials.kit.*
+        - essentials.ptime
+        - essentials.tree
+        - essentials.afk
+        - essentials.compass
+        - essentials.getpos
+        - essentials.list
+        - essentials.msg
+        - essentials.msg.color
+        - essentials.nick
+        - essentials.nick.color
+        - essentials.suicide
+        - essentials.ban.notify
+        - essentials.burn
+        - essentials.ext
+        - essentials.fireball
+        - essentials.kick.notify
+        - essentials.lightning
+        - essentials.sudo
+        - essentials.weather
+        - essentials.back
+        - essentials.home
+        - essentials.jump
+        - essentials.sethome
+        - essentials.sethome.multiple
+        - essentials.sethome.multiple.5
+        - essentials.setwarp
+        - essentials.tpa
+        - essentials.tpaccept
+        - essentials.tpdeny
+        - essentials.tpahere
+        - essentials.warp
+        - essentials.warp.*
+        - essentials.pay
+        - essentials.sell
+        - essentials.worth
+        - essentials.balance
+        
